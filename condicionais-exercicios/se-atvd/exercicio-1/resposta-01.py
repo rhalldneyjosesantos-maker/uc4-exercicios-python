@@ -1,2 +1,4 @@
-nome = input("Digite seu nome: ")
-print(f"Olá, {nome}! Seja bem-vindo(a)!")
+compra = int (input ("Digite o valor da compra: "))
+desconto = 30
+if compra > 200: print ("O valor da compra é ", compra - desconto, "reais")
+else: print ("O valor da compra é ", compra, "reais")
