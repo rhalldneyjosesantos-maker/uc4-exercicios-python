@@ -1,3 +1,4 @@
+
 # 🐍 Lista de Exercícios: Algoritmos em Python
 
 > Repositório dedicado à entrega das atividades práticas da Unidade Curricular 4 (Desenvolvimento de Algoritmos).
@@ -33,3 +34,5 @@ Este repositório contém as soluções dos exercícios práticos desenvolvidos 
 - **Python** para desenvolvimento dos scripts
 - **VS Code** como editor de código
 - Ferramenta de modelagem para os fluxogramas (`.png` / `.pdf`)
+
+- <img width="3168" height="1344" alt="Gemini_Generated_Image_3w14vy3w14vy3w14" src="https://github.com/user-attachments/assets/8a1c7dd9-2b6e-4590-b46c-b2e3c45053a0" />
